@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783627547800",
+    "firebase_url": "https://charflutter-18f42.firebaseio.com",
+    "project_id": "charflutter-18f42",
+    "storage_bucket": "charflutter-18f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783627547800:android:9dc8ef8fa844dc1d8bcced",
+        "android_client_info": {
+          "package_name": "henrique.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783627547800-ae6tdpb1rqt5r4821ljukbqq5cp8os7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "henrique.com.chat",
+            "certificate_hash": "05b66ade682a139727b9a2cbd45b756256b56e99"
+          }
+        },
+        {
+          "client_id": "783627547800-gfec00t28ad05f5jrt05dir0mp0o3o9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhzHfSL1T5Bhjl5TwkKkCTuMFsUDxAWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783627547800-gfec00t28ad05f5jrt05dir0mp0o3o9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
